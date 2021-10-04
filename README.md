@@ -142,7 +142,7 @@ Kubernetes: `^1.19.0-0`
 | alertmanager.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;folderAnnotation | string | `nil` |  |
 | alertmanager.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;image.&ZeroWidthSpace;repository | string | `"quay.io/kiwigrid/k8s-sidecar"` |  |
 | alertmanager.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;image.&ZeroWidthSpace;sha | string | `""` |  |
-| alertmanager.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;image.&ZeroWidthSpace;tag | string | `"1.10.7"` |  |
+| alertmanager.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;image.&ZeroWidthSpace;tag | string | `"1.14.1"` |  |
 | alertmanager.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;imagePullPolicy | string | `"IfNotPresent"` |  |
 | alertmanager.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;label | string | `"cortex_alertmanager"` |  |
 | alertmanager.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;labelValue | string | `nil` |  |
@@ -684,7 +684,7 @@ Kubernetes: `^1.19.0-0`
 | ruler.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;folderAnnotation | string | `nil` |  |
 | ruler.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;image.&ZeroWidthSpace;repository | string | `"quay.io/kiwigrid/k8s-sidecar"` |  |
 | ruler.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;image.&ZeroWidthSpace;sha | string | `""` |  |
-| ruler.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;image.&ZeroWidthSpace;tag | string | `"1.10.7"` |  |
+| ruler.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;image.&ZeroWidthSpace;tag | string | `"1.14.1"` |  |
 | ruler.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;imagePullPolicy | string | `"IfNotPresent"` |  |
 | ruler.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;label | string | `"cortex_rules"` |  |
 | ruler.&ZeroWidthSpace;sidecar.&ZeroWidthSpace;labelValue | string | `nil` |  |
